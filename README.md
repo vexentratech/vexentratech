@@ -166,7 +166,10 @@ https://github.com/vexentratech
 
 ## Contact
 
-For software development, web application development, API development, server management, or technology-related projects, please contact us vexentratechnologies@gmail.com.
+For software development, web application development, API development, server management, or technology-related projects, contact Vexentra Technologies at:
+
+**Email:** vexentratechnologies@gmail.com
+
 
 ---
 
