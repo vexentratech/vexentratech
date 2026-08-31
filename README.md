@@ -14,6 +14,8 @@ We focus on creating software that is scalable, secure, maintainable, and suitab
 
 ## Services
 
+Vexentra Technologies provides:
+
 - Custom Software Development
 - Web Application Development
 - Full-Stack Web Development
@@ -23,17 +25,11 @@ We focus on creating software that is scalable, secure, maintainable, and suitab
 - React Development
 - Vue.js Development
 - REST API Development
-- API Integration
 - MySQL Database Development
 - MongoDB Development
-- Database Design and Optimization
 - VPS Server Management
 - Linux Server Management
-- Application Deployment
-- Server Configuration
-- Website Maintenance
-- Performance Optimization
-- Git and Version Control
+
 
 ## Technology Expertise
 
