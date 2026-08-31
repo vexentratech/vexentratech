@@ -2,7 +2,7 @@
 
 Vexentra Technologies is a software development and web technology company specializing in custom web applications, full-stack development, backend development, frontend development, API development, database solutions, VPS server management, and software deployment.
 
-With more than **5 years of experience in software development**, Vexentra Technologies works with modern technologies including **PHP, Laravel, Node.js, React, Vue.js, MySQL, MongoDB, Git, GitHub, Linux, and VPS servers**.
+With more than **5 years of professional software development experience**, Vexentra Technologies works with modern technologies including **PHP, Laravel, Node.js, React, Vue.js, MySQL, MongoDB, Git, GitHub, Linux, and VPS servers**.
 
 ## About Vexentra Technologies
 
@@ -14,8 +14,6 @@ We focus on creating software that is scalable, secure, maintainable, and suitab
 
 ## Services
 
-Vexentra Technologies provides:
-
 - Custom Software Development
 - Web Application Development
 - Full-Stack Web Development
@@ -25,11 +23,17 @@ Vexentra Technologies provides:
 - React Development
 - Vue.js Development
 - REST API Development
+- API Integration
 - MySQL Database Development
 - MongoDB Development
+- Database Design and Optimization
 - VPS Server Management
 - Linux Server Management
-
+- Application Deployment
+- Server Configuration
+- Website Maintenance
+- Performance Optimization
+- Git and Version Control
 
 ## Technology Expertise
 
@@ -75,7 +79,7 @@ Vexentra Technologies provides:
 - GitHub
 - Version Control
 - Repository Management
-- Collaborative Development
+- Collaborative Software Development
 
 ## Development Experience
 
@@ -97,11 +101,11 @@ Our development experience includes:
 
 We believe good software should be:
 
-- **Scalable** – Designed to grow with your business.
-- **Secure** – Developed using appropriate security practices.
-- **Maintainable** – Built with clean and organized code.
-- **Performant** – Optimized for speed and efficient resource usage.
-- **Reliable** – Designed for stable production environments.
+- **Scalable** — Designed to grow with your business.
+- **Secure** — Developed using appropriate security practices.
+- **Maintainable** — Built with clean and organized code.
+- **Performant** — Optimized for speed and efficient resource usage.
+- **Reliable** — Designed for stable production environments.
 
 ## GitHub Projects
 
@@ -121,19 +125,50 @@ Our projects may include:
 
 ## Technology Stack
 
-```text
-PHP
-Laravel
-Node.js
-React
-Vue.js
-JavaScript
-MySQL
-MongoDB
-Git
-GitHub
-Linux
-VPS
-REST API
-HTML5
-CSS3
+- PHP
+- Laravel
+- Node.js
+- React
+- Vue.js
+- JavaScript
+- MySQL
+- MongoDB
+- Git
+- GitHub
+- Linux
+- VPS
+- REST API
+- HTML5
+- CSS3
+
+## Why Vexentra Technologies?
+
+Vexentra Technologies combines software development experience with practical server and deployment knowledge.
+
+Our expertise covers both application development and the infrastructure required to run applications in production.
+
+We focus on:
+
+- Clean and maintainable code
+- Scalable application architecture
+- Secure development practices
+- High-performance applications
+- Reliable backend systems
+- Modern frontend development
+- Database optimization
+- Production server management
+- Continuous improvement and maintenance
+
+## Connect With Vexentra Technologies
+
+**GitHub:**  
+https://github.com/vexentratech
+
+## Contact
+
+For software development, web application development, API development, server management, or technology-related projects, please contact us vexentratechnologies@gmail.com.
+
+---
+
+**Vexentra Technologies**  
+Software Development | Web Applications | APIs | Full-Stack Development | Server Management
